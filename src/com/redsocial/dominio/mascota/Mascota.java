@@ -15,6 +15,7 @@ public class Mascota {
     private String apodo;
     private String raza;
     private int edad;
+    private int David;
   
 
     public Mascota() {

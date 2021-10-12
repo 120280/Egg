@@ -15,7 +15,11 @@ public class Mascota {
     private String apodo;
     private String raza;
     private int edad;
+<<<<<<< HEAD
     private String David;
+=======
+    private int David;
+>>>>>>> feature/David/login
   
 
     public Mascota() {
